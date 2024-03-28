@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Decor &#8211; project1</title>
+	<atom:link href="https://saeedhammou.github.io/project1/project-cat/decor/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saeedhammou.github.io/project1</link>
+	<description></description>
+	<lastBuildDate>Fri, 27 Aug 2021 13:29:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Et vestibulum quis a suspendisse</title>
+		<link>https://saeedhammou.github.io/project1/portfolio/et-vestibulum-quis-a-suspendisse/</link>
+					<comments>https://saeedhammou.github.io/project1/portfolio/et-vestibulum-quis-a-suspendisse/#respond</comments>
+		
+		<dc:creator><![CDATA[said]]></dc:creator>
+		<pubDate>Fri, 27 Aug 2021 13:29:49 +0000</pubDate>
+				<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?post_type=portfolio&#038;p=550</guid>
+
+					<description><![CDATA[Our Latest Work WE ARE CREATIVE AGENCY Accum luctus dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="550" class="elementor elementor-550">
+				<div class="wd-negative-gap elementor-element elementor-element-7ee5290 e-flex e-con-boxed e-con e-parent" data-id="7ee5290" data-element_type="container" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-9d8d75b e-con-full e-flex e-con e-child" data-id="9d8d75b" data-element_type="container">
+				<div class="elementor-element elementor-element-b06230a wd-width-100 elementor-widget elementor-widget-wd_images_gallery" data-id="b06230a" data-element_type="widget" data-widget_type="wd_images_gallery.default">
+				<div class="elementor-widget-container">
+						<link rel="stylesheet" id="wd-image-gallery-css" href="https://saeedhammou.github.io/project1/wp-content/themes/woodmart/css/parts/el-gallery.min.css?ver=7.4.3" type="text/css" media="all" /> 					<div class="wd-images-gallery photoswipe-images" style="--wd-align-items:center; --wd-justify-content:center;">
+						<div class="wd-grid-g" style="--wd-col-lg:2;--wd-col-md:2;--wd-col-sm:2;--wd-gap-lg:20px;--wd-gap-sm:10px;" >
+																		<div class="wd-gallery-item wd-col">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-9.jpg"data-width="800" data-height="800" data-index="1" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-9.jpg"alt="portfolio-9">
+													</a>
+											</div>
+															<div class="wd-gallery-item wd-col">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-8.jpg"data-width="800" data-height="800" data-index="2" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-8.jpg"alt="portfolio-8">
+													</a>
+											</div>
+															<div class="wd-gallery-item wd-col">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-6.jpg"data-width="800" data-height="800" data-index="3" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-6.jpg"alt="portfolio-6">
+													</a>
+											</div>
+															<div class="wd-gallery-item wd-col">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-5.jpg"data-width="800" data-height="800" data-index="4" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-5.jpg"alt="portfolio-5">
+													</a>
+											</div>
+															<div class="wd-gallery-item wd-col">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-4.jpg"data-width="800" data-height="800" data-index="5" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-4.jpg"alt="portfolio-4">
+													</a>
+											</div>
+															<div class="wd-gallery-item wd-col">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-3.jpg"data-width="800" data-height="800" data-index="6" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-3.jpg"alt="portfolio-3">
+													</a>
+											</div>
+													</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d94f49e elementor-widget elementor-widget-wd_image_or_svg" data-id="d94f49e" data-element_type="widget" data-widget_type="wd_image_or_svg.default">
+				<div class="elementor-widget-container">
+			
+		<div class="wd-image text-left photoswipe-images">
+							<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-1.jpg"data-width="800" data-height="800" data-elementor-open-lightbox="no">
+								<img fetchpriority="high" decoding="async" width="800" height="800" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-1.jpg" class="attachment-full size-full" alt="" />							</a>
+					</div>
+
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2711189 e-con-full  wd-sticky-container-yes wd-sticky-offset-150 e-flex e-con e-child" data-id="2711189" data-element_type="container">
+		<div class="elementor-element elementor-element-88ad56e e-con-full e-flex e-con e-child" data-id="88ad56e" data-element_type="container">
+				<div class="elementor-element elementor-element-566dfdf wd-width-100 elementor-widget elementor-widget-wd_title" data-id="566dfdf" data-element_type="widget" data-widget_type="wd_title.default">
+				<div class="elementor-widget-container">
+					<div class="title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-large text-left">
+
+			
+			<div class="liner-continer">
+				<h4 class="woodmart-title-container title wd-fontsize-xxl">Our Latest Work</h4> 
+							</div>
+
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-23a13df elementor-widget elementor-widget-wd_text_block" data-id="23a13df" data-element_type="widget" data-widget_type="wd_text_block.default">
+				<div class="elementor-widget-container">
+					<div class="wd-text-block reset-last-child text-left color-#989898 color-scheme-custom">
+			
+			<p>WE ARE CREATIVE AGENCY</p>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d088794 elementor-widget elementor-widget-wd_text_block" data-id="d088794" data-element_type="widget" data-widget_type="wd_text_block.default">
+				<div class="elementor-widget-container">
+					<div class="wd-text-block reset-last-child text-left">
+			
+			<p>Accum luctus dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation.</p>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ef370c3 e-con-full e-flex e-con e-child" data-id="ef370c3" data-element_type="container">
+				<div class="elementor-element elementor-element-2c3cdc2 elementor-widget__width-initial elementor-widget elementor-widget-wd_infobox" data-id="2c3cdc2" data-element_type="widget" data-widget_type="wd_infobox.default">
+				<div class="elementor-widget-container">
+						<link rel="stylesheet" id="wd-info-box-css" href="https://saeedhammou.github.io/project1/wp-content/themes/woodmart/css/parts/el-info-box.min.css?ver=7.4.3" type="text/css" media="all" /> 					<div class="info-box-wrapper">
+			<div class="wd-info-box text-left box-icon-align-top box-style-base color-scheme-">
+				
+				<div class="info-box-content">
+					
+											<h4						class="info-box-title title box-title-style-underlined wd-fontsize-s" data-elementor-setting-key="title">
+								CLIENT						</h4>
+					
+					<div class="info-box-inner set-cont-mb-s reset-last-child"data-elementor-setting-key="content"><p>MINDSPARKLE SHOP</p>
+</div>
+
+									</div>
+
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3893c9f elementor-widget__width-initial elementor-widget elementor-widget-wd_infobox" data-id="3893c9f" data-element_type="widget" data-widget_type="wd_infobox.default">
+				<div class="elementor-widget-container">
+					<div class="info-box-wrapper">
+			<div class="wd-info-box text-left box-icon-align-top box-style-base color-scheme-">
+				
+				<div class="info-box-content">
+					
+											<h4						class="info-box-title title box-title-style-underlined wd-fontsize-s" data-elementor-setting-key="title">
+								CLIENT						</h4>
+					
+					<div class="info-box-inner set-cont-mb-s reset-last-child"data-elementor-setting-key="content"><p>MINDSPARKLE SHOP</p>
+</div>
+
+									</div>
+
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-170c4a0 elementor-widget__width-initial elementor-widget elementor-widget-wd_infobox" data-id="170c4a0" data-element_type="widget" data-widget_type="wd_infobox.default">
+				<div class="elementor-widget-container">
+					<div class="info-box-wrapper">
+			<div class="wd-info-box text-left box-icon-align-top box-style-base color-scheme-">
+				
+				<div class="info-box-content">
+					
+											<h4						class="info-box-title title box-title-style-underlined wd-fontsize-s" data-elementor-setting-key="title">
+								DESIGNER						</h4>
+					
+					<div class="info-box-inner set-cont-mb-s reset-last-child"data-elementor-setting-key="content"><p>JOHN DOE</p>
+</div>
+
+									</div>
+
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-293dfe0 elementor-widget__width-initial elementor-widget elementor-widget-wd_infobox" data-id="293dfe0" data-element_type="widget" data-widget_type="wd_infobox.default">
+				<div class="elementor-widget-container">
+					<div class="info-box-wrapper">
+			<div class="wd-info-box text-left box-icon-align-top box-style-base color-scheme-">
+				
+				<div class="info-box-content">
+					
+											<h4						class="info-box-title title box-title-style-underlined wd-fontsize-s" data-elementor-setting-key="title">
+								WEBSITE						</h4>
+					
+					<div class="info-box-inner set-cont-mb-s reset-last-child"data-elementor-setting-key="content"><p>XTEMOS.COM/WOOD</p>
+</div>
+
+									</div>
+
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="wd-negative-gap elementor-element elementor-element-378bed0 e-flex e-con-boxed e-con e-parent" data-id="378bed0" data-element_type="container" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-430181d elementor-widget__width-initial elementor-widget elementor-widget-wd_infobox" data-id="430181d" data-element_type="widget" data-widget_type="wd_infobox.default">
+				<div class="elementor-widget-container">
+					<div class="info-box-wrapper">
+			<div class="wd-info-box text-center box-icon-align-top box-style-base color-scheme-">
+									<div class="box-icon-wrapper  box-with-text text-size-large box-icon-simple">
+						<div class="info-box-icon">
+															01.													</div>
+					</div>
+				
+				<div class="info-box-content">
+					
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								<strong>VULPUTATE A PORTA</strong>						</h4>
+					
+					<div class="info-box-inner set-cont-mb-s reset-last-child"data-elementor-setting-key="content"><p>Vestibulum nam lobortis scelerisque eu mi leo orci placerat a parturient congue non commodo felis in dui</p>
+</div>
+
+									</div>
+
+									<a href="#" class="wd-info-box-link wd-fill" aria-label="Infobox link"></a>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4cbc367 elementor-widget__width-initial elementor-widget elementor-widget-wd_infobox" data-id="4cbc367" data-element_type="widget" data-widget_type="wd_infobox.default">
+				<div class="elementor-widget-container">
+					<div class="info-box-wrapper">
+			<div class="wd-info-box text-center box-icon-align-top box-style-base color-scheme-">
+									<div class="box-icon-wrapper  box-with-text text-size-large box-icon-simple">
+						<div class="info-box-icon">
+															02.													</div>
+					</div>
+				
+				<div class="info-box-content">
+					
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								<strong>SUSCIPIT HABITANT</strong>						</h4>
+					
+					<div class="info-box-inner set-cont-mb-s reset-last-child"data-elementor-setting-key="content"><p>Ullamcorper adipiscing vel hac a egestas leo in sit pharetra auctor nibh mauris mi cum curae nec nasceturam</p>
+</div>
+
+									</div>
+
+									<a href="#" class="wd-info-box-link wd-fill" aria-label="Infobox link"></a>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9be0992 elementor-widget__width-initial elementor-widget elementor-widget-wd_infobox" data-id="9be0992" data-element_type="widget" data-widget_type="wd_infobox.default">
+				<div class="elementor-widget-container">
+					<div class="info-box-wrapper">
+			<div class="wd-info-box text-center box-icon-align-top box-style-base color-scheme-">
+									<div class="box-icon-wrapper  box-with-text text-size-large box-icon-simple">
+						<div class="info-box-icon">
+															03.													</div>
+					</div>
+				
+				<div class="info-box-content">
+					
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								<strong>VESTIBULUM CUBILIA</strong>						</h4>
+					
+					<div class="info-box-inner set-cont-mb-s reset-last-child"data-elementor-setting-key="content"><p>Gravida morbi platea at arcu convallis a id id suspendisse parturient adipiscing vestibulum. Praesent interdu.</p>
+</div>
+
+									</div>
+
+									<a href="#" class="wd-info-box-link wd-fill" aria-label="Infobox link"></a>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="wd-negative-gap elementor-element elementor-element-3f98f6b e-flex e-con-boxed e-con e-parent" data-id="3f98f6b" data-element_type="container" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-b7e1cae e-con-full  wd-sticky-container-yes wd-sticky-offset-150 e-flex e-con e-child" data-id="b7e1cae" data-element_type="container">
+		<div class="elementor-element elementor-element-cf00d28 e-con-full e-flex e-con e-child" data-id="cf00d28" data-element_type="container">
+				<div class="elementor-element elementor-element-6d8f2a2 wd-width-100 elementor-widget elementor-widget-wd_title" data-id="6d8f2a2" data-element_type="widget" data-widget_type="wd_title.default">
+				<div class="elementor-widget-container">
+					<div class="title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-default text-left">
+
+			
+			<div class="liner-continer">
+				<h4 class="woodmart-title-container title wd-fontsize-l">Purus lectus scelerisque <em>parturient</em> lobortis namar</h4> 
+							</div>
+
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-88bbd65 elementor-widget elementor-widget-wd_text_block" data-id="88bbd65" data-element_type="widget" data-widget_type="wd_text_block.default">
+				<div class="elementor-widget-container">
+					<div class="wd-text-block reset-last-child text-left">
+			
+			<p style="text-align: left;">Purus <strong><a href="#">vel sapien</a></strong> a mollis fusce parturient a laoreet vestibulum purus ullamcorper tellus ante at duira convallis ac vel a vestibulum sem ridiculus sapien.</p><ul class="unordered-list"><li>Suscipit habitant vulputate a porta.</li><li>Consectetur vestibulum cubilia acc.</li><li>Scelerisque litora ipsum parturient.</li></ul><p style="text-align: left;">Id volutpat consequat <strong><a href="#">arcu tristique</a></strong> praesent sed sapien a a sagittis sit condimentum hac ut congue.</p>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-eacab41 e-con-full e-flex e-con e-child" data-id="eacab41" data-element_type="container">
+				<div class="elementor-element elementor-element-0c51d2d elementor-widget__width-auto elementor-widget elementor-widget-wd_button" data-id="0c51d2d" data-element_type="widget" data-widget_type="wd_button.default">
+				<div class="elementor-widget-container">
+					<div class="wd-button-wrapper text-center" >
+			<a class="btn btn-style-default btn-style-rectangle btn-size-default btn-color-black btn-icon-pos-right"  href="#">
+				<span class="wd-btn-text" data-elementor-setting-key="text">
+					VIEW MORE				</span>
+
+							</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0fc1b7d elementor-widget__width-auto elementor-widget elementor-widget-wd_button" data-id="0fc1b7d" data-element_type="widget" data-widget_type="wd_button.default">
+				<div class="elementor-widget-container">
+					<div class="wd-button-wrapper text-center" >
+			<a class="btn btn-style-bordered btn-style-rectangle btn-size-default btn-color-default btn-icon-pos-right"  href="#">
+				<span class="wd-btn-text" data-elementor-setting-key="text">
+					CONTACT US				</span>
+
+							</a>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5fc500b e-con-full e-flex e-con e-child" data-id="5fc500b" data-element_type="container">
+				<div class="elementor-element elementor-element-2cfd894 wd-width-100 elementor-widget elementor-widget-wd_images_gallery" data-id="2cfd894" data-element_type="widget" data-widget_type="wd_images_gallery.default">
+				<div class="elementor-widget-container">
+					<div class="wd-images-gallery photoswipe-images" style="--wd-align-items:center; --wd-justify-content:center;">
+						<div class="wd-grid-g" style="--wd-col-lg:2;--wd-col-md:2;--wd-col-sm:2;--wd-gap-lg:20px;--wd-gap-sm:10px;" >
+																		<div class="wd-gallery-item wd-col">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-7.jpg"data-width="800" data-height="800" data-index="1" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-7.jpg"alt="portfolio-7">
+													</a>
+											</div>
+															<div class="wd-gallery-item wd-col">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-5.jpg"data-width="800" data-height="800" data-index="2" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-5.jpg"alt="portfolio-5">
+													</a>
+											</div>
+															<div class="wd-gallery-item wd-col">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-6.jpg"data-width="800" data-height="800" data-index="3" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-6.jpg"alt="portfolio-6">
+													</a>
+											</div>
+															<div class="wd-gallery-item wd-col">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-8.jpg"data-width="800" data-height="800" data-index="4" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-8.jpg"alt="portfolio-8">
+													</a>
+											</div>
+															<div class="wd-gallery-item wd-col">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-1.jpg"data-width="800" data-height="800" data-index="5" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-1.jpg"alt="portfolio-1">
+													</a>
+											</div>
+															<div class="wd-gallery-item wd-col">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-2.jpg"data-width="800" data-height="800" data-index="6" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-2.jpg"alt="portfolio-2">
+													</a>
+											</div>
+													</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a675970 elementor-widget elementor-widget-wd_image_or_svg" data-id="a675970" data-element_type="widget" data-widget_type="wd_image_or_svg.default">
+				<div class="elementor-widget-container">
+			
+		<div class="wd-image text-left photoswipe-images">
+							<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-3.jpg"data-width="800" data-height="800" data-elementor-open-lightbox="no">
+								<img decoding="async" width="800" height="800" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-3.jpg" class="attachment-full size-full" alt="" />							</a>
+					</div>
+
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://saeedhammou.github.io/project1/portfolio/et-vestibulum-quis-a-suspendisse/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Rhoncus quisque sollicitudin</title>
+		<link>https://saeedhammou.github.io/project1/portfolio/rhoncus-quisque-sollicitudin/</link>
+					<comments>https://saeedhammou.github.io/project1/portfolio/rhoncus-quisque-sollicitudin/#respond</comments>
+		
+		<dc:creator><![CDATA[said]]></dc:creator>
+		<pubDate>Fri, 27 Aug 2021 12:48:36 +0000</pubDate>
+				<guid isPermaLink="false">http://dummy.xtemos.com/woodmart2/elementor/?post_type=portfolio&#038;p=490</guid>
+
+					<description><![CDATA[ULLAMCORPER CONSEQUAT PULVINAR SCELERISQUE COMMODO SCELERISQUE. Ut a parturient ad vestibulum lectus varius dignistami sarim fusce mi pos uere ante]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="490" class="elementor elementor-490">
+				<div class="wd-negative-gap elementor-element elementor-element-e56af39 e-flex e-con-boxed e-con e-parent" data-id="e56af39" data-element_type="container" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-a45e703 wd-width-100 elementor-widget elementor-widget-wd_images_gallery" data-id="a45e703" data-element_type="widget" data-widget_type="wd_images_gallery.default">
+				<div class="elementor-widget-container">
+					<div class="wd-images-gallery photoswipe-images wd-carousel-container" style="--wd-align-items:center; --wd-justify-content:center;">
+							<div class="wd-carousel-inner">
+						<div class="wd-carousel wd-grid" data-scroll_per_page="yes" style="--wd-col-lg:2;--wd-col-md:2;--wd-col-sm:1;--wd-gap-lg:10px;">
+									<div class="wd-carousel-wrap">
+																		<div class="wd-gallery-item wd-carousel-item">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-7.jpg"data-width="800" data-height="800" data-index="1" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-7.jpg"alt="portfolio-7">
+													</a>
+											</div>
+															<div class="wd-gallery-item wd-carousel-item">
+													<a  href="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-9.jpg"data-width="800" data-height="800" data-index="2" data-elementor-open-lightbox="no">
+						
+						<img decoding="async" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-9.jpg"alt="portfolio-9">
+													</a>
+											</div>
+																</div>
+								</div>
+							
+				</div>
+
+													</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="wd-negative-gap elementor-element elementor-element-b99c5c9 e-flex e-con-boxed e-con e-parent" data-id="b99c5c9" data-element_type="container" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8d88dcc wd-width-100 elementor-widget elementor-widget-wd_title" data-id="8d88dcc" data-element_type="widget" data-widget_type="wd_title.default">
+				<div class="elementor-widget-container">
+					<div class="title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-default text-left">
+
+			
+			<div class="liner-continer">
+				<h4 class="woodmart-title-container title wd-fontsize-l">ULLAMCORPER CONSEQUAT PULVINAR SCELERISQUE</h4> 
+							</div>
+
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-86ad3d6 elementor-hidden-mobile elementor-widget elementor-widget-wd_social_buttons" data-id="86ad3d6" data-element_type="widget" data-widget_type="wd_social_buttons.default">
+				<div class="elementor-widget-container">
+			
+			<div class=" wd-social-icons icons-design-colored icons-size-small color-scheme-light social-share social-form-circle text-right">
+
+				
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost/project1/portfolio/rhoncus-quisque-sollicitudin/" target="_blank" class=" wd-social-icon social-facebook" aria-label="Facebook social link">
+						<span class="wd-icon"></span>
+											</a>
+				
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=http://localhost/project1/portfolio/rhoncus-quisque-sollicitudin/" target="_blank" class=" wd-social-icon social-twitter" aria-label="X social link">
+						<span class="wd-icon"></span>
+											</a>
+				
+				
+				
+				
+									<a rel="noopener noreferrer nofollow" href="https://pinterest.com/pin/create/button/?url=http://localhost/project1/portfolio/rhoncus-quisque-sollicitudin/&media=http://localhost/project1/wp-content/uploads/2021/08/portfolio-8.jpg&description=Rhoncus+quisque+sollicitudin" target="_blank" class=" wd-social-icon social-pinterest" aria-label="Pinterest social link">
+						<span class="wd-icon"></span>
+											</a>
+				
+				
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost/project1/portfolio/rhoncus-quisque-sollicitudin/" target="_blank" class=" wd-social-icon social-linkedin" aria-label="Linkedin social link">
+						<span class="wd-icon"></span>
+											</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+								
+								
+				
+				
+									<a rel="noopener noreferrer nofollow" href="https://telegram.me/share/url?url=http://localhost/project1/portfolio/rhoncus-quisque-sollicitudin/" target="_blank" class=" wd-social-icon social-tg" aria-label="Telegram social link">
+						<span class="wd-icon"></span>
+											</a>
+								
+				
+			</div>
+
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="wd-negative-gap elementor-element elementor-element-74c7144 e-flex e-con-boxed e-con e-parent" data-id="74c7144" data-element_type="container" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-498c43d e-con-full e-flex e-con e-child" data-id="498c43d" data-element_type="container">
+				<div class="elementor-element elementor-element-70438c9 elementor-widget elementor-widget-wd_infobox" data-id="70438c9" data-element_type="widget" data-widget_type="wd_infobox.default">
+				<div class="elementor-widget-container">
+					<div class="info-box-wrapper">
+			<div class="wd-info-box text-left box-icon-align-left box-style-base color-scheme- wd-items-top">
+									<div class="box-icon-wrapper  box-with-icon box-icon-simple">
+						<div class="info-box-icon">
+															<span class="info-svg-wrapper info-icon" style="width:30px; height:30px;"><svg id="svg-9369" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg-7081" version="1.1" viewBox="0 0 26 26"><path d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#83B735"></path></svg> </span>													</div>
+					</div>
+				
+				<div class="info-box-content">
+					
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								COMMODO SCELERISQUE.						</h4>
+					
+					<div class="info-box-inner set-cont-mb-s reset-last-child"data-elementor-setting-key="content"><p>Ut a parturient ad vestibulum lectus varius dignistami sarim fusce mi pos uere ante vivamus vesti bulum part urient sed a sit fermentum eros.</p>
+</div>
+
+									</div>
+
+									<a href="#" class="wd-info-box-link wd-fill" aria-label="Infobox link"></a>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b0814b1 e-con-full e-flex e-con e-child" data-id="b0814b1" data-element_type="container">
+				<div class="elementor-element elementor-element-a4e222c elementor-widget elementor-widget-wd_infobox" data-id="a4e222c" data-element_type="widget" data-widget_type="wd_infobox.default">
+				<div class="elementor-widget-container">
+					<div class="info-box-wrapper">
+			<div class="wd-info-box text-left box-icon-align-left box-style-base color-scheme- wd-items-top">
+									<div class="box-icon-wrapper  box-with-icon box-icon-simple">
+						<div class="info-box-icon">
+															<span class="info-svg-wrapper info-icon" style="width:30px; height:30px;"><svg id="svg-8291" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg-7081" version="1.1" viewBox="0 0 26 26"><path d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#83B735"></path></svg> </span>													</div>
+					</div>
+				
+				<div class="info-box-content">
+					
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								PARTURIENT FRINGILLA.						</h4>
+					
+					<div class="info-box-inner set-cont-mb-s reset-last-child"data-elementor-setting-key="content"><p>Elit suspendisse ut in senectus in vivamus magnis adipiscing placerat accumsan laoreet nec penatibus a vel ut ipsum platea diam proin facilis.</p>
+</div>
+
+									</div>
+
+									<a href="#" class="wd-info-box-link wd-fill" aria-label="Infobox link"></a>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-44650aa e-con-full e-flex e-con e-child" data-id="44650aa" data-element_type="container">
+				<div class="elementor-element elementor-element-3f18dbb elementor-widget elementor-widget-wd_infobox" data-id="3f18dbb" data-element_type="widget" data-widget_type="wd_infobox.default">
+				<div class="elementor-widget-container">
+					<div class="info-box-wrapper">
+			<div class="wd-info-box text-left box-icon-align-left box-style-base color-scheme- wd-items-top">
+									<div class="box-icon-wrapper  box-with-icon box-icon-simple">
+						<div class="info-box-icon">
+															<span class="info-svg-wrapper info-icon" style="width:30px; height:30px;"><svg id="svg-5840" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg-7081" version="1.1" viewBox="0 0 26 26"><path d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#83B735"></path></svg> </span>													</div>
+					</div>
+				
+				<div class="info-box-content">
+					
+											<h4						class="info-box-title title box-title-style-default wd-fontsize-s" data-elementor-setting-key="title">
+								COMMODO SCELERISQUE.						</h4>
+					
+					<div class="info-box-inner set-cont-mb-s reset-last-child"data-elementor-setting-key="content"><p>Vestibulum nam lobortis scelerisque eu mi leo orci placerat a parturient congue non commodo felis in dui lacinia potenti aptent torquent mia.</p>
+</div>
+
+									</div>
+
+									<a href="#" class="wd-info-box-link wd-fill" aria-label="Infobox link"></a>
+							</div>
+		</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="wd-negative-gap elementor-element elementor-element-0b28902 e-flex e-con-boxed e-con e-parent" data-id="0b28902" data-element_type="container" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-96034d7 e-con-full e-flex e-con e-child" data-id="96034d7" data-element_type="container">
+				<div class="elementor-element elementor-element-9b85ce0 elementor-widget elementor-widget-wd_image_or_svg" data-id="9b85ce0" data-element_type="widget" data-widget_type="wd_image_or_svg.default">
+				<div class="elementor-widget-container">
+			<br />
+<b>Warning</b>:  Trying to access array offset on value of type bool in <b>C:\xampp\htdocs\project1\wp-includes\media.php</b> on line <b>795</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type bool in <b>C:\xampp\htdocs\project1\wp-includes\media.php</b> on line <b>801</b><br />
+
+		<div class="wd-image text-left">
+								<img decoding="async" width="600" height="600" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-3.jpg" class="attachment-600x800 size-600x800" alt="" />					</div>
+
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-bfa6fb6 e-con-full e-flex e-con e-child" data-id="bfa6fb6" data-element_type="container">
+				<div class="elementor-element elementor-element-5dcd4ef elementor-widget elementor-widget-wd_image_or_svg" data-id="5dcd4ef" data-element_type="widget" data-widget_type="wd_image_or_svg.default">
+				<div class="elementor-widget-container">
+			<br />
+<b>Warning</b>:  Trying to access array offset on value of type bool in <b>C:\xampp\htdocs\project1\wp-includes\media.php</b> on line <b>795</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type bool in <b>C:\xampp\htdocs\project1\wp-includes\media.php</b> on line <b>801</b><br />
+
+		<div class="wd-image text-left">
+								<img loading="lazy" decoding="async" width="385" height="385" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-1.jpg" class="attachment-600x385 size-600x385" alt="" />					</div>
+
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5b6b577 elementor-widget elementor-widget-wd_image_or_svg" data-id="5b6b577" data-element_type="widget" data-widget_type="wd_image_or_svg.default">
+				<div class="elementor-widget-container">
+			<br />
+<b>Warning</b>:  Trying to access array offset on value of type bool in <b>C:\xampp\htdocs\project1\wp-includes\media.php</b> on line <b>795</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type bool in <b>C:\xampp\htdocs\project1\wp-includes\media.php</b> on line <b>801</b><br />
+
+		<div class="wd-image text-left">
+								<img loading="lazy" decoding="async" width="385" height="385" src="https://saeedhammou.github.io/project1/wp-content/uploads/2021/08/portfolio-2.jpg" class="attachment-600x385 size-600x385" alt="" />					</div>
+
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://saeedhammou.github.io/project1/portfolio/rhoncus-quisque-sollicitudin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
